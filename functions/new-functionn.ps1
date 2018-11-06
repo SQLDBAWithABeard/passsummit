@@ -1,0 +1,3 @@
+new-functionbeard {
+    [cmdletbinding(supportsshouldprocess)]
+}
